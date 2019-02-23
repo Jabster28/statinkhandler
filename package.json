@@ -1,0 +1,11 @@
+{
+  "name": "statinkhandler",
+  "version": "1.0.1",
+  "description": "A data handler for the stat.ink API. Allows getting information of player & individual battles. Also allows to send battle data.",
+  "main": "index.js",
+  "author": "Jabster28 <justynboyer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
